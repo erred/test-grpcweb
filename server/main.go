@@ -10,7 +10,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	hw "github.com/seankhliao/grpctest/helloworld"
+	hw "seankhliao.com/grpctest/helloworld"
 )
 
 var serverOption grpc.ServerOption

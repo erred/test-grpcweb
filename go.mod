@@ -1,4 +1,4 @@
-module github.com/seankhliao/grpctest
+module seankhliao.com/grpctest
 
 go 1.12
 

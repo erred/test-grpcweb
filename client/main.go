@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	hw "github.com/seankhliao/grpctest/helloworld"
 	"google.golang.org/grpc"
+	hw "seankhliao.com/grpctest/helloworld"
 )
 
 func main() {
